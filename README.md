@@ -29,9 +29,10 @@ Working through this helped me get more comfortable with Python data structures 
 ## Run It Yourself
 
 Clone the repo and run:
-
 ```bash
-python analysis.py
+git clone https://github.com/ttt081/10_Day_Loops.git
+cd 10_Day_Loops
+python loop10.py
 ```
 
 No external libraries needed — just pure Python.
